@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "experss": "^0.0.1-security",
+    "expres": "^0.0.5",
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
